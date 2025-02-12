@@ -1,0 +1,13 @@
+..
+output
+ls.txt
+.
+..
+output
+ls.txt
+.
+aisantor
+..
+output
+ls.txt
+.
